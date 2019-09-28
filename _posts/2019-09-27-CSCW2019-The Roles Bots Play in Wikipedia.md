@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CSCW2019: The Roles Bots Play in Wikipedia
+title: CSCW2019 - The Roles Bots Play in Wikipedia
 description: "What do bots do in Wikipedia?"
 comments: true
 ---
