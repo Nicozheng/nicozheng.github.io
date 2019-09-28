@@ -1,0 +1,22 @@
+I"�<p>Here you can find some of the programs I’ve written.</p>
+
+<h3 id="research">Research</h3>
+
+<ul>
+  <li><a href="https://github.com/Nicozheng/Wikipedia_bots_taxonomy"><strong>The Roles Bots Play in Wikipedia</strong></a><br />
+Data and Analysis code for our CSCW 2019 paper. It does feature engineering and builds a multi-class machine learning model to classify all registered bots in Wikipedia.</li>
+</ul>
+
+<h3 id="side-projects">Side Projects</h3>
+
+<ul>
+  <li>
+    <p><a href="https://github.com/Nicozheng/GoogleScholarCrawler"><strong>Google Scholar Crawler</strong></a><br />
+This is a short python program that search, format, and download papers (if there is a public accessible one) form google scholar.</p>
+  </li>
+  <li>
+    <p><a href="https://github.com/Nicozheng/twitter_crawler"><strong>Twitter Crawler</strong></a><br />
+This is a short python code to search and download user’s twittes and replies. I also recorded the hierarchical information for network research purpose.</p>
+  </li>
+</ul>
+:ET
