@@ -14,6 +14,7 @@ image:
 <p>As a typical <a href="https://www.16personalities.com/intj-personality" target="_blank">INTJ</a> type, I like to play with new techs and programming in my daily life. My favorite language is python. I love github, jupyter and markdown. I don't like <code>std::string name="xyz"</code> and <code>public new class{}</code>. I fall asleep when I see a 40 pages paper.</p>
 
 ## News and Events
+<li> <span style="background-color: #e6e6e6">11/2019</span> Presented our Bots paper in ACM CSCW 2019, TX!</li>
 <li> <span style="background-color: #e6e6e6">09/2019</span> Our Bots Taxonomy paper has received an <strong>Honorable Mention Award</strong> in <a href="https://icis2019.aisconferences.org/" target="_blank"> ACM CSCW! </a></li>
 <li> <span style="background-color: #e6e6e6">09/2019</span> Write a blog post for our Bots Taxonomy paper at <a href="https://icis2019.aisconferences.org/" target="_blank"> ACM CSCW! </a> </li>
 <li> <span style="background-color: #e6e6e6">09/2019</span> Our Bursty paper is accepted to <a href="https://icis2019.aisconferences.org/" target="_blank">AIS ICIS 2019</a>. Hallo münchen! See you this December!</li>
